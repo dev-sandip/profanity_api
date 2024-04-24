@@ -1,0 +1,5 @@
+name = "profanity-api"
+compatibility_date = "2024-04-23"
+[vars]
+VECTOR_URL="Your Vector Database Url"
+VECTOR_TOKEN="Your Vector Database token"
